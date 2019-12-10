@@ -1,1 +1,1 @@
-## Uma single page application feita em react, juntamente com bootstrap 4.
+## SPA feito em react, juntamente com bootstrap 4.
